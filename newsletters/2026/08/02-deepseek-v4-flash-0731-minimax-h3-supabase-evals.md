@@ -24,7 +24,7 @@ The numbers moved anyway.
 
 A checkpoint that only changed its post‑training. A drafter trained against a frozen target. A decoder rewired into an encoder. And one genuinely new architecture, to prove the rule.
 
-> **译文：** 一个仅在训练后才发生变化的检查点。一个针对固定目标进行训练的绘图员。一个被重新连接到编码器的解码器。以及一个真正全新的架构，用来验证这条规则。
+> **译文：** 一个仅在训练后才进行更改的检查点。一个针对固定目标进行训练的绘图员。一个重新连接到编码器的解码器。以及一个真正全新的架构，用来验证规则。
 
 Presented by MongoDB    Event Venue Operator — an agentic demo on Atlas with three‑layer memory and Voyage embeddings. Clone it →
 
